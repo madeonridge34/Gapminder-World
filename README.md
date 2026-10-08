@@ -212,4 +212,4 @@ Gapminder World is available as a complete free version, providing users with al
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-07 21:50:16 UTC
+**Last updated:** 2026-10-08 01:39:13 UTC
